@@ -16,7 +16,7 @@ public class Main {
             Fact=Fact*j;
         }               //a loop which won't end until j<= the number
                         // and 1 is added to j each and every time the loop is repeated
-                        /* e.g. 5is the num and j is 1 so j<5 so fact will be multiplied by 1
+                        /* e.g. 5 is the num and j is 1 so j<5 so fact will be multiplied by 1
                                 again 1 is added to j so j=2  and since 2<1 so fact will be multiplied 2 which is 2
                                 again 1 is added to j and the loop continues.
                          */
